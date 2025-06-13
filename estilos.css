@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(241, 239, 235);
+header{
+    background-color: rgb(241, 239, 235);
+    color: black;
+    padding: 1rem;
+    text-align: center;
+}
+nav{
+    bottom: #24b300;
+    padding: 0.5rem ;
+    text-align: center;  
+}
